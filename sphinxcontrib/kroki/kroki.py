@@ -42,6 +42,7 @@ types = {
     "vega": "vega",
     "vegalite": "vegalite",
     "wavedrom": "wavedrom",
+    "wireviz": "wireviz"
 }
 
 extension_type_map = {
